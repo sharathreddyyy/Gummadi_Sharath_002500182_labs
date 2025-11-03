@@ -6,7 +6,7 @@ package model;
 
 /**
  *
- * @author sharathreddy
+ * @author 
  *
  */
 public class Business {
